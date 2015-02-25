@@ -1,12 +1,12 @@
 # DivitFaceQtSDK
 This software provides C++ SDK for users of DivitFace API which is a face analysis cloud platform.
 
-1. Introduction
+##1. Introduction
 
 DivitFace API is a cloud platform that provides face analysis framework including face detecion, face recognition, face search.
 This software provides SDK of DivitFace API for C++ and Qt developers.
 
-2. Requirements
+##2. Requirements
 
  - Qt 4.8
  - OpenCV 2.3 or greater
