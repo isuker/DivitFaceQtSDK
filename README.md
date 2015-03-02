@@ -3,7 +3,7 @@ This software provides C++ SDK for users of DivitFace API which is a face analys
 
 ##1. Introduction
 
-DivitFace API is a cloud platform that provides face analysis framework including face detecion, face recognition, face search.
+DivitFace API is a cloud platform that provides face analysis framework including face detecion, face recognition and face search.
 This software provides SDK of DivitFace API for C++ and Qt developers.
 
 ##2. Requirements
